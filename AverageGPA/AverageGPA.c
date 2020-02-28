@@ -29,6 +29,9 @@ int main(){
         printf("Something wrong with function 'Output'!\n");
         return -1;
     }
+    printf("Enter any key to close this program...");
+    getchar();
+    return 0;
 }
 
 int Input(float (*GPA_point)[2], int *num_class){
