@@ -1,12 +1,10 @@
 #academic records
-AverageGPA/
-*.csv
+/AverageGPA/*.csv
 
 #binary file
-AverageGPA/
-*.exe
-*.exe~
+/AverageGPA/*.exe
+/AverageGPA/*.exe~
 
-v2ray-gRPC-Client/
-*.exe
-*.exe~
+/v2ray-gRPC-Client/*.exe
+/v2ray-gRPC-Client/*.exe~
+
